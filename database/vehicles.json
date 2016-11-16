@@ -1,0 +1,157 @@
+
+            {
+                "type" : 1,
+                "description" : "Semi-trailer truck",
+                "default_price" : 100,
+                "default_availability" : 1,
+                "vehicles" : [
+                    {
+                        "description" : "Semi-trailer truck Number 1", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    },
+                    {
+                        "description" : "Semi-trailer truck Number 2", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    },
+                    {
+                        "description" : "Semi-trailer truck Number 3", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    }
+                ]
+            },
+            {
+                "type" : 2,
+                "description" : "20 foot swap-body truck",
+                "default_price" : 100,
+                "default_availability" : 1,
+                "vehicles" : [
+                    {
+                        "description" : "20 foot swap-body truck Number 1", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    },
+                    {
+                        "description" : "20 foot swap-body truck Number 2", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    },
+                    {
+                        "description" : "20 foot swap-body truck Number 3", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    },
+                    {
+                        "description" : "20 foot swap-body truck Number 4", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    }
+                ]
+            },
+            {
+                "type" : 3,
+                "description" : "28.5 foot pup trailer",
+                "default_price" : 100,
+                "default_availability" : 1,
+                "vehicles" : [
+                    {
+                        "description" : "28.5 foot pup trailer Number 1", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    },
+                    {
+                        "description" : "28.5 foot pup trailer Number 2", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    },
+                    {
+                        "description" : "28.5 foot pup trailer Number 3", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    },
+                    {
+                        "description" : "28.5 foot pup trailer Number 4", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    },
+                    {
+                        "description" : "28.5 foot pup trailer Number 5", 
+                        "prices" : [
+                            {"price" : 100, "date" : "2016-11-13"}
+                        ],
+                        "availability" : [
+                            {"available" : 1 , "date" : "2016-11-13"},
+                            {"available" : 1 , "date" : "2016-11-14"},
+                            {"available" : 0 , "date" : "2016-11-15"}
+                        ]
+                    }
+                ]
+            }

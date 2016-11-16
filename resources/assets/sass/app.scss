@@ -1,0 +1,85 @@
+$logasia_gray : #808080;
+$default_blue : #3f51b5;
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.container {
+    text-align: center;
+    width: 100%;
+}
+
+.content {
+    display: block;
+    .title {
+        font-family: 'Lato';
+        font-size: 72px;
+        font-weight: 100;
+    }
+    md-toolbar{
+        .md-flex{ 
+            text-align: center; 
+            margin: 0 auto;
+        }
+    }
+    md-table-container{
+        table{
+            font-size: 14px !important;
+            .vehicle_header{
+                background: rgba(0,0,0,0.3);
+                height: 40px;
+                th{
+                    font-size: 22px;
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}
+.shadow{
+    box-shadow: 1px 1px 7px 0px rgba(145, 145, 145, 0.5);
+}
+.panel-header {
+    text-align: left;
+    padding: 15px;
+    font-size: 18px;
+    background: $logasia_gray;
+    color: #fff;
+    /*font-family: 'Lato';*/
+    font-weight: 100;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    position: relative;
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+}
+.panel-body{
+    position: relative;
+    padding: 15px;
+    .lbl_title{
+        font-size: 18px;
+        display: inline-block;
+        font-family: 'Lato';
+        font-weight: bold;
+        color: #000;
+    }
+}
+.aux-option{
+    @media(min-width: 784px){
+        left: -38%;
+    }
+}
+
+md-dialog{
+    padding: 1em;
+    .title{
+        font-family: 'Lato';
+        font-weight: bold;
+        margin-bottom: 0; 
+    }
+    md-list{
+        
+    }
+}
